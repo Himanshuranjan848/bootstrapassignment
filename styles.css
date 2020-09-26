@@ -9,8 +9,8 @@ img{
   font-family: 'Architects Daughter', cursive;
 }
 .fluid{
- padding 50px;
- margin 50px;
+ padding: 50px;
+ margin: 50px;
 }
 #carouselExampleControls{
   padding: 5px;
